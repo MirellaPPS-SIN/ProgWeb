@@ -1,6 +1,8 @@
 Projeto da disciplina Programação para Web.
 Alunos: Mirella Priscilla Pereira dos Santos e José Alisson Ferreira Medeiros
 
+>>>> O CÓDIGO ESTÁ NA BRANCH MASTER <<<<
+
 Links: https://github.com/MirellaPPS-SIN/ProgWeb.git
 /
 https://projeto-site-liart-two.vercel.app/
